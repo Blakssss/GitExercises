@@ -15,4 +15,7 @@ public class Main {
         String input = myObj.nextLine();
         System.out.println("Your age pls: " + input);
     }
+    public  void  thisSHit(){
+        System.out.println("This is shit");
+    }
 }
