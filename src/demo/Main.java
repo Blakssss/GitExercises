@@ -10,7 +10,7 @@ public class Main {
         String input = myObj.nextLine();
         System.out.println("Hej" + input);
     }
-    public void askAboutAge(){
+    public void askAboutYourMom(){
         Scanner myObj = new Scanner(System.in);
         String input = myObj.nextLine();
         System.out.println("Your age pls: " + input);
